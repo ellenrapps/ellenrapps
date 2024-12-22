@@ -6,5 +6,4 @@
 - 🔭 Personal Projects:
   1) Novel Bitcoin Payment Service: https://github.com/ellenrapps/Novel-Bitcoin-Payment-Service-
   2) Woobu Autonomous Drone: https://github.com/ellenrapps/Woobu-Autonomous-Drone
-- 📫 Contact me at jetravellingATgmailDOTcom
 
