@@ -4,6 +4,6 @@
 - Microsoft Store link: https://apps.microsoft.com/search/publisher?name=Ellen+Red&hl=en-gb&gl=SG
 - I develop Customized Windows Desktop App via Upwork: https://www.upwork.com/services/product/development-it-a-customized-windows-desktop-application-1870966599734250821?ref=project_share
 - 🔭 Personal Projects:
-  1) Novel Bitcoin Payment Service: https://github.com/ellenrapps/Novel-Bitcoin-Payment-Service-
+  1) New Bitcoin Project (TBA)
   2) Woobu Autonomous Drone: https://github.com/ellenrapps/Woobu-Autonomous-Drone
 
