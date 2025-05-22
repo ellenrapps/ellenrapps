@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 0n-going Personal Projects:
-1) Gabscriber: Real-Time Speech To Text Transcription
+1) Gabscriber: Real-Time Speech-To-Text Transcription App
    -> Now available on Microsoft Store: https://apps.microsoft.com/detail/9nfd6cjf9xlc?hl=en-us&gl=US
 2) Novel Bitcoin Payment Service
    -> More info on BitcoinTalk: https://bitcointalk.org/index.php?topic=5510774.0
