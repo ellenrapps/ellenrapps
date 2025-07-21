@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 🔭 Featured Projects:
 1) BreakNow Alarm Clock App -> Now available on Microsoft Store: https://apps.microsoft.com/detail/9pdxfxkkkxlq?hl=en-US&gl=US
 2) Gabscriber: Real-Time Speech-To-Text Transcription App
